@@ -7,5 +7,8 @@ public class RemoveFromList
     {
         //à compléter
         ArrayList<Character> alc = new ArrayList(Arrays.asList(new char[]{'A', 'B', 'C', 'D'}));
+
+        
+
     }
 }

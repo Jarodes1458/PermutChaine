@@ -3,6 +3,7 @@ public class Permutations
     public static void main(String[] args)
     {
             afficherPermut("ABCD", "");
+
     }
 
     private static void afficherPermut(String s, String prefixe)
